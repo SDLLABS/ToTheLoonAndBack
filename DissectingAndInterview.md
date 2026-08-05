@@ -1,26 +1,18 @@
----
+```c
+// Disclaimer I'm on the Spectrum, I have ASD Support Level 2, OCD, ADHD
+// Properly diagnosed! So dont! Just Dont!
 
-title: "Blindagem de papel: a defesa jurídica de Joana Marques desmontada, ponto por ponto"
-description: "Análise jurídico-jornalística da entrevista em que Joana Marques procurou justificar o episódio do Extremamente Desagradável dedicado a Mafalda Matos e à neurodivergência."
-date: 2026-08-05
-author: "António Santos"
-tags:
+//Also I'm the Real Sleep Deprived Loon and I mean it! I'm Sleep Deprived,
+// and more or less I'm a loon! 
+```
 
-* opinião
-* análise
-* autismo
-* neurodivergência
-* humor
-* liberdade de expressão
-* direitos de personalidade
-* comunicação social
-* direito
+ 
 
----
+
 
 # Blindagem de papel: a defesa jurídica de Joana Marques desmontada, ponto por ponto
 
-> **Uma entrevista posterior tentou transformar uma sátira ao autismo numa simples questão de interpretação literal. O problema é que as ressalvas jurídicas não apagam o conteúdo original e, em alguns pontos, a própria defesa abriu novas frentes de risco.**
+> Uma entrevista posterior tentou transformar uma sátira ao autismo numa simples questão de interpretação literal. O problema é que as ressalvas jurídicas não apagam o conteúdo original e, em alguns pontos, a própria defesa abriu novas frentes de risco.**
 
 ## Nota metodológica
 
